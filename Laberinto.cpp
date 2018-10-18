@@ -14,7 +14,7 @@ Laberinto::Laberinto(int numeroFilas, int numeroColumnas, int numeroTesoros, int
 {
   this->numeroFilas = numeroFilas;
   this->numeroColumnas = numeroColumnas;
-  this->numeroTesoros = numeroTesoros;
+  this->numeroTesoros = numeroTesoros
   this->numeroGnomos = numeroGnomos;
   this->numeroDragones = numeroDragones;
   this->porcentajeCasillasVacias = porcentajeCasillasVacias;
